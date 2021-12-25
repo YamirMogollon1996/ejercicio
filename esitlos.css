@@ -1,0 +1,12 @@
+.container__clas{
+    display: flex;
+}
+
+.pep{
+
+    width: 100vw;
+    height: 200px;
+    background-color: rosybrown;
+    border: 1px solid black;
+
+}
